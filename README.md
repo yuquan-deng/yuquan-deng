@@ -1,6 +1,6 @@
 <div align="center">
 
-# 邓宇权 · Yuquan Deng
+# 邓煜荃 · Yuquan Deng
 
 **AI 应用工程师 · Agent 与工作流自动化方向**
 AI Application Engineer · Agents & Workflow Automation
