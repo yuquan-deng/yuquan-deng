@@ -5,8 +5,8 @@
 **AI 应用工程师 · Agent 与工作流自动化方向**
 AI Application Engineer · Agents & Workflow Automation
 
-深圳技术大学 · 自动化 · 2026 届
-Shenzhen Technology University · Automation · Class of 2026
+深圳技术大学 · 自动化 · 2027 届
+Shenzhen Technology University · Automation · Class of 2027
 
 [项目](#-项目) · [技能栈](#-技能栈) · [联系我](#-联系我) · [English](#-english)
 
@@ -18,7 +18,7 @@ Shenzhen Technology University · Automation · Class of 2026
 
 我的主线是**把业务问题变成能跑起来的自动化流程**：写后端 API、搭运营台、接企业微信事件回调、编排 Coze 工作流。习惯是把一条链路端到端做实，而不是停在 demo。
 
-- 🎯 **求职方向**：AI 应用工程师 / Agent 开发 / 工作流自动化（2026 届秋招）
+- 🎯 **求职方向**：AI 应用工程师 / Agent 开发 / 工作流自动化（2027 届秋招）
 - 🔭 **正在深入**：Agent 编排、MCP 协议、多 Agent 协作、RAG
 - 🛠️ **做事风格**：先跑通最小闭环，再补契约与适配层；把重复的事做成工具
 - 🏋️ 校队健身，长期主义
@@ -53,7 +53,7 @@ Shenzhen Technology University · Automation · Class of 2026
 
 企微客户群业务应用：消息入站 → 结构化为统一契约 → 分类 → 自动应答 / 建线索 → 运营台可视化。
 
-> 工作项目，公开仓库已做脱敏处理（移除内部运营文档与业务细节）。
+> 实习期间参与的项目，公开仓库已做脱敏处理（移除内部运营文档与业务细节）。
 
 `FastAPI` · `React + Vite` · `Webhook` · `适配层抽象` · `pytest`
 
@@ -111,7 +111,7 @@ Shenzhen Technology University · Automation · Class of 2026
 ## English
 
 **Yuquan Deng** — AI Application Engineer focused on **agents and workflow automation**.
-Automation undergraduate at Shenzhen Technology University (Class of 2026), based in Shenzhen, China.
+Automation undergraduate at Shenzhen Technology University (Class of 2027), based in Shenzhen, China.
 
 I build end-to-end pipelines rather than demos: FastAPI backends, React consoles, WeCom (WeChat Work)
 event callbacks, and Coze workflow orchestration. My usual pattern is to get the minimal closed loop
@@ -128,6 +128,6 @@ running first, then add contracts and adapter layers.
 **Tech** — Python, TypeScript, C/C++ · FastAPI, Node.js, React, Streamlit · Coze workflows,
 OpenAI-compatible APIs · MySQL, SQLite · Git, Docker, pytest
 
-**Open to** — AI application engineering roles, agent development, workflow automation (graduating 2026)
+**Open to** — AI application engineering roles, agent development, workflow automation (graduating 2027)
 
 **Contact** — 2200131540@qq.com · [github.com/yuquan-deng](https://github.com/yuquan-deng)
